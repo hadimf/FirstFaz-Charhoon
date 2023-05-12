@@ -1,0 +1,13 @@
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\bin\Debug\netcoreapp3.1\EmergencyServices.exe
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\bin\Debug\netcoreapp3.1\EmergencyServices.deps.json
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\bin\Debug\netcoreapp3.1\EmergencyServices.runtimeconfig.json
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\bin\Debug\netcoreapp3.1\EmergencyServices.runtimeconfig.dev.json
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\bin\Debug\netcoreapp3.1\EmergencyServices.dll
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\bin\Debug\netcoreapp3.1\EmergencyServices.pdb
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\obj\Debug\netcoreapp3.1\EmergencyServices.csprojAssemblyReference.cache
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\obj\Debug\netcoreapp3.1\EmergencyServices.AssemblyInfoInputs.cache
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\obj\Debug\netcoreapp3.1\EmergencyServices.AssemblyInfo.cs
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\obj\Debug\netcoreapp3.1\EmergencyServices.csproj.CoreCompileInputs.cache
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\obj\Debug\netcoreapp3.1\EmergencyServices.dll
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\obj\Debug\netcoreapp3.1\EmergencyServices.pdb
+C:\Users\Hadi\Desktop\New folder\EmergencyServices\obj\Debug\netcoreapp3.1\EmergencyServices.genruntimeconfig.cache
